@@ -1,0 +1,1 @@
+This is the script to onboard customers to your lighthouse
