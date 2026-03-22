@@ -8,7 +8,7 @@ $authorization = @(
     @{
         principalId = "give the object id of the app registration, group or user"
         roleDefinitionId = (Get-AzRoleDefinition "Contributor").Id
-        principalIdDisplayName = "MSP Contributor Access"
+        principalIdDisplayName = "MSP Contributor Access"     #can be changed as per the access required
     }
 )
 
